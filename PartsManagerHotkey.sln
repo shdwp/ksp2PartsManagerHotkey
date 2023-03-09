@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartsManagerHotkey", "PartsManagerHotkey.csproj", "{90F7C403-0EA9-4CA3-8FD0-C4B3B47F11DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F7C403-0EA9-4CA3-8FD0-C4B3B47F11DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F7C403-0EA9-4CA3-8FD0-C4B3B47F11DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F7C403-0EA9-4CA3-8FD0-C4B3B47F11DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F7C403-0EA9-4CA3-8FD0-C4B3B47F11DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
